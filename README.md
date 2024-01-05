@@ -7,8 +7,10 @@ When I started, I was familiar with the java-based language Processing 4 (https:
 I used the Swing(Java) library for visuals (the GUI and the graph).
 
 How to run:
+  
   •  Download and install the latest version of Java Runtime Environment (Java 8) from:
                   https://www.java.com/en/download/
+                  
   •  Download the Differentiation Calculator.jar file from the repository and run it.
 
 
