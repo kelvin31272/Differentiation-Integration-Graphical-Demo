@@ -16,20 +16,27 @@ How to run:
 
 
 
-Syntax for inputting functions
-all functions input should be mathematical polynomials (look on wikipedia what constitutes a 'polynomial')
-any term of a function can be written in these ways:
-[number]x 
-[number]x^[number]
-[number] can be an expression, so long as it is bracketed e.g 
-"(24.2/52)x^2" is completely valid
-the terms are seperated by plus symbols only
-[term] + [term] + [term]
-[term] + [term] - [term] is invalid
-so to write terms with negative co-efficients, place them in a bracketed expression 
-e.g (-6)x^2 + (-5)x is equal to -6x^2 - 5x
+**Syntax for inputting functions**
 
-Here are some valid polynomial inputs
-x^2 + 3
-x^3 + (-3)x^2 + (-1/3)x + 4
-5x^(-2)
+All functions input should be mathematical polynomials (look on wikipedia what constitutes a 'polynomial')
+
+Any term of a function can be written in these ways:
+
+>_[number]x_  
+>_[number]x^[number]_  
+>_[expression]_ where expression must be bracketed
+>
+The terms are seperated by plus symbols _only_:
+
+>_[term] + [term] + [term]_  
+>_[term] + [term] - [term]_   **is invalid**  
+
+So to write terms with negative co-efficients, place them in a bracketed expression 
+
+>e.g (-6)x^2 + (-5)x is equal to -6x^2 - 5x
+
+Here are some valid polynomial inputs:
+
+>x^2 + 3  
+>x^3 + (-3)x^2 + (-1/3)x + 4  
+>5x^(-2)  
